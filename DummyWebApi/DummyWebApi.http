@@ -1,0 +1,6 @@
+@DummyWebApi_HostAddress = http://localhost:5187
+
+GET {{DummyWebApi_HostAddress}}/dummy/
+Accept: application/json
+
+###
